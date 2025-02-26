@@ -16,10 +16,10 @@ This project analyzes Google Play Store data to uncover trends and insights abou
 We used kaggle as our data source. 
 
 ## Team
-This project was developed by Group 30:
+This project was done by:
+- Shahar Turgeman
 - Rotem Liani
 - Ron Steinmetz
-- Shahar Turgeman
 - Adir Sheri
 
 ## Repository
