@@ -13,7 +13,7 @@ This project analyzes Google Play Store data to uncover trends and insights abou
 - **User Ratings**: Exploring what makes an app highly rated and identifying trends among top-rated apps.
 
 ## Data Source
-The dataset used in this project was obtained from a publicly available GitHub repository and contains details on various Google Play Store applications.
+We used kaggle as our data source. 
 
 ## Team
 This project was developed by Group 30:
@@ -23,5 +23,4 @@ This project was developed by Group 30:
 - Adir Sheri
 
 ## Repository
-For full code and analysis, visit: [GitHub Repository](https://github.com/rotemliani/data_analytics-project_2022)
-
+For full code and analysis checkout our python code .
